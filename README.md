@@ -1,5 +1,5 @@
 # Planner
-<img src='https://github.com/Paulopma/futureEats/blob/master/src/assets/images/Capture.JPG?raw=true'>
+<img src='https://github.com/Paulopma/planner/blob/master/Capture.JPG?raw=true'>
 
 ## Descrição
 Projeto realizado como exercício individual de front-end. Possibilita ao usuário a criação de tarefas ao longo da semana. O usuário pode escolher um dos dias da semana através de um dropdown, escrever a tarefa no input e, ao clicar no botão "criar tarefa" a tarefa digitada no input é adicionada ao dia específico que o usuário escolheu. As tarefas são gerenciadas através de uma API previamente fornecida.
